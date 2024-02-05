@@ -1,6 +1,6 @@
 # imcat
 
-**imcat** is a lightweight Rust utility for displaying images in the terminal. It leverages the power of Rust, the colored and image crates, allowing users to view images in their terminal using character-based representations. With imcat, you can resize and display images, making it a handy tool for quick image previews and exploration.
+Want to customize your terminal utilities to a comically high degree ? Well, **imcat** is a lightweight Rust utility for displaying images in the terminal. It leverages the power of Rust, the colored and image crates, allowing users to view images in their terminal using character-based representations. With imcat, you can resize and display images, making it a handy tool for quick image previews and exploration.
 
 ## Features
 - Resize images to fit your terminal width.
